@@ -9,5 +9,6 @@ Kalva Kaushik, Gauri Agarwal and Akhilesh
   By keeping all of these in mind we plot graphs and analize them to check for depending facors and non-depending factors. 
   We train a model by one of the different algorithams like Logistic regression, Decision trees, SVM, KNN ....
   In this we did by Logistic regrssion. 
-  The dataset to be trained must have its features resemble those in the given sample dataset(high_diamond_ranked_10min.csv).
-  Accuracy of our implementation is around 73.3%.
+  
+  # The dataset to be trained must have its features resemble those in the given sample dataset(high_diamond_ranked_10min.csv).
+  # Accuracy of our implementation is around 73.3%.
